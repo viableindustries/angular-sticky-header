@@ -1,0 +1,25 @@
+{
+  "name": "angular-sticky-header",
+  "version": "0.0.1",
+  "description": "A pure Angular.js sticky header directive",
+  "main": "module.js",
+  "directories": {},
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "angular.js",
+    "angular",
+    "sticky",
+    "header"
+  ],
+  "authors": [
+    "Joshua Powell <joshua@viable.io>",
+    "Ryan Hamley <ryan@viable.io>"
+  ],
+  "license": "AGPL 3.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:viableindustries/angular-sticky-header.git"
+  }
+}
