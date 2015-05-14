@@ -1,6 +1,6 @@
 {
   "name": "angular-sticky-header",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A pure Angular.js sticky header directive",
   "main": "module.js",
   "directories": {},
