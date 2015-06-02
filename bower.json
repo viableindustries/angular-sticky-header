@@ -7,7 +7,7 @@
     "Ryan Hamley <ryan@viable.io>"
   ],
   "description": "A pure Angular.js sticky header directive",
-  "main": "module.js",
+  "main": "angular-sticky-header.js",
   "keywords": [
     "angular.js",
     "angular",
