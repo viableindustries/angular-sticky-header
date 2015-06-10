@@ -3,8 +3,7 @@
   "version": "0.0.4",
   "homepage": "https://github.com/viableindustries/angular-sticky-header",
   "authors": [
-    "Joshua Powell <joshua@viable.io>",
-    "Ryan Hamley <ryan@viable.io>"
+    "Joshua Powell <joshua@viable.io>"
   ],
   "description": "A pure Angular.js sticky header directive",
   "main": "angular-sticky-header.js",
